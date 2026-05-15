@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saiful%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Open%20Source%20Enthusiast%20%C2%B7%20Lifelong%20Learner&descAlignY=58&descSize=16" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saiful%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Open%20Source%20Enthusiast%20%C2%B7%20Lifelong%20Learner&descAlignY=58&descSize=16" width="100%"/> -->
+<img width="2055" height="765" alt="ChatGPT Image May 15, 2026, 10_57_06 PM" src="https://github.com/user-attachments/assets/72f00e6c-b4e5-45bc-9014-a03658d2d2c2" />
+
 
 </div>
 
