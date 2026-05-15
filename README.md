@@ -108,7 +108,7 @@
 
 <br/>
 
-<div align="center">
+<div >
 
 ![](https://github-profile-trophy.vercel.app/?username=SaifulET&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
