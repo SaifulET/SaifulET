@@ -32,7 +32,7 @@ I'm **Saiful Islam** — a passionate MERN Stack developer from **Bangladesh**, 
 
 ---
 
-## 🚀 &nbsp;What I'm Focused On
+##  &nbsp;What I'm Focused On
 
 <table>
   <tr>
