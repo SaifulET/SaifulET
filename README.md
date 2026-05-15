@@ -38,30 +38,6 @@
 
 ---
 
-##  &nbsp;What I'm Focused On
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>⚛️ MERN Stack Development</h3>
-      <p>Building full-stack web applications with <strong>MongoDB, Express.js, React, and Node.js</strong> — from REST APIs to interactive UIs.</p>
-    </td>
-    <td width="50%">
-      <h3>📚 Leveling Up</h3>
-      <p>Actively deepening expertise in <strong>TypeScript</strong>, <strong>Next.js</strong>, and modern backend tooling with <strong>PostgreSQL & Prisma ORM</strong>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌍 Open Source</h3>
-      <p>Eager to contribute to and collaborate on <strong>open-source projects</strong> that make a difference in the developer community.</p>
-    </td>
-    <td width="50%">
-      <h3>🧠 Sharing Knowledge</h3>
-      <p>Passionate about <strong>helping fellow developers</strong> through community engagement, code reviews, and knowledge sharing.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
