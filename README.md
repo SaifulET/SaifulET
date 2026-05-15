@@ -83,7 +83,7 @@
 
 <br/>
 
-<div align="center">
+<div >
 
 <img width="65%" src="https://streak-stats.demolab.com/?user=SaifulET&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
@@ -91,7 +91,7 @@
 
 <br/>
 
-<div align="center">
+<div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaifulET&theme=tokyonight" height="163em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaifulET&theme=tokyonight" height="163em" />
@@ -100,7 +100,7 @@
 
 <br/>
 
-<div align="center">
+<div >
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaifulET&theme=tokyonight" height="160em" />
 
