@@ -20,12 +20,18 @@
 
 ### Professional Summary
 
-I'm **Saiful Islam** — a passionate MERN Stack developer from **Bangladesh**, focused on building clean, scalable web applications and growing every day as a developer.
+<p>Software Engineer specializing in <strong>Frontend Architecture</strong>, <strong>Backend Development</strong>, and <strong>DevOps</strong>. Currently building high-performance, scalable applications at <strong>SparkTech Agency</strong>.</p>
 
-- 🔭 &nbsp;**Currently working on** MERN Stack projects
-- 🌱 &nbsp;**Currently learning** TypeScript, Next.js, PostgreSQL & Prisma
-- 👯 &nbsp;**Looking to collaborate** on open-source projects
-- 🤔 &nbsp;**Mission** — Learn, build, and help others with web development
+<p>With over 1 years of production experience, I design and implement solutions that go beyond code ensuring reliability, scalability, and maintainability. My core focus areas include:</p>
+
+<ul>
+  <li><strong>Backend Development:</strong> Designing robust APIs, optimizing database queries, and implementing microservices to support high-traffic applications. Ensuring data integrity, security, and efficient server-side operations.</li>
+  <li><strong>Performance Optimization:</strong> Reducing Time to Interactive (TTI) and Largest Contentful Paint (LCP) for seamless user experiences.</li>
+  <li><strong>Scalable Architecture:</strong> Creating modular and maintainable codebases that support rapid growth and feature expansion.</li>
+  <li><strong>User-Centric Design:</strong> Bridging complex backend logic with intuitive and responsive frontend interfaces.</li>
+  <li><strong>DevOps & CI/CD:</strong> Implementing automated deployment pipelines, containerization, monitoring, and infrastructure-as-code practices to ensure reliable delivery and operational efficiency.</li>
+  <li><strong>Security & Reliability:</strong> Applying best practices for authentication, authorization, and data protection across backend services.</li>
+</ul>
 
 
 <br clear="right"/>
