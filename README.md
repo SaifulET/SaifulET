@@ -167,7 +167,7 @@
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-51002E?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Profile Views](https://komarev.com/ghpvc/?username=SaifulET&color=51002E&style=for-the-badge&label=👀%20Profile%20Views)
 
 *Thanks for visiting. Let's build something great together.* 
 
