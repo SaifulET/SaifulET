@@ -167,7 +167,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaifulET&color=00F5C4&style=flat-square&label=Profile+Views)
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaifulET&color=51002E&style=flat-square&label=Profile+Views)
 
 *Thanks for visiting. Let's build something great together.* 
 
