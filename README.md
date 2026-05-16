@@ -78,7 +78,7 @@
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <!-- <div align="center">
 
@@ -122,7 +122,7 @@
 
 ---
 
-## 📈 &nbsp;Contribution Activity
+## &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -132,7 +132,7 @@
 
 ---
 
-## 🌐 &nbsp;Connect With Me
+##  &nbsp;Connect With Me
 
 <div align="center">
 
@@ -146,7 +146,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💬 &nbsp;Philosophy
 
@@ -157,7 +157,7 @@
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
@@ -169,6 +169,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaifulET&color=00F5C4&style=flat-square&label=Profile+Views)
 
-*Thanks for visiting. Let's build something great together.* 🚀
+*Thanks for visiting. Let's build something great together.* 
 
 </div>
