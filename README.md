@@ -134,7 +134,7 @@
 
 ##  &nbsp;Connect With Me
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful-islam-834467317/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.saiful.islam.867178)
