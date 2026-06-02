@@ -77,16 +77,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></div>
 
 ---
-
+ <!--
 ## &nbsp;GitHub Stats
 
- <!-- <div align="center">
+ <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaifulET&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800"/>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulET&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800"/>
 
 </div>
---->
+
 
 <br/>
 
@@ -122,7 +122,7 @@
 </div>
 
 ---
-
+--->
 ## &nbsp;Contribution Activity
 
 <div align="center">
