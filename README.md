@@ -6,12 +6,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:64748b,45:8b5cf6,100:22d3ee&amp;height=210&amp;section=header&amp;text=SAIFUL%20ISLAM&amp;fontSize=62&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Node.js%20%26%20Next.js&amp;descAlignY=57&amp;descSize=18" alt="Saiful Islam header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:64748b,45:8b5cf6,100:22d3ee&height=210&section=header&text=SAIFUL%20ISLAM&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Node.js%20%26%20Next.js&descAlignY=57&descSize=18" alt="Saiful Islam header" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=SaifulET&amp;label=PROFILE%20VIEWS&amp;color=06b6d4&amp;style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/SaifulET?label=FOLLOWERS&amp;style=for-the-badge&amp;color=7c3aed" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=SaifulET&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/SaifulET?label=FOLLOWERS&style=for-the-badge&color=7c3aed" alt="GitHub followers" />
 <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%2B%20BACKEND-22d3ee?style=for-the-badge" alt="Focus" />
 
 </div>
@@ -158,10 +158,10 @@ Working with **AWS S3, AWS EC2, Socket.IO, Redis, RabbitMQ, Nginx, and Linux-bas
 ### Services & Integrations
 
 <p>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&amp;logo=mongoose&amp;logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&amp;logo=stripe&amp;logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&amp;logo=amazons3&amp;logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
 
 ---
@@ -234,7 +234,7 @@ A scalable ride-sharing backend with 100+ RESTful APIs.
 
 <td width="50%" valign="top">
 
-### 👗 Wardrop / Style-Sync
+### 👑 Wardrop / Style-Sync
 
 A fashion platform backend for outfit planning, community interaction, notifications, and administration.
 
@@ -327,11 +327,7 @@ flowchart LR
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaifulET/SaifulET/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaifulET/SaifulET/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SaifulET/SaifulET/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SaifulET/SaifulET/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -359,16 +355,16 @@ Problem Solving            █████████████████�
 <div align="center">
 
 <a href="mailto:saifulislam3412883@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/saiful-islam-834467317/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 <a href="https://saiful-portfolio-three.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/SaifulET">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br />
@@ -376,6 +372,6 @@ Problem Solving            █████████████████�
 
 ### ⚡ Building secure, scalable, and production-ready applications.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22d3ee,50:8b5cf6,100:64748b&amp;height=120&amp;section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:64748b&height=120&section=footer" alt="Footer" />
 
 </div>
