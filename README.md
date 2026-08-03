@@ -298,29 +298,9 @@ A service marketplace and booking platform with location-based discovery and rol
 
 ---
 
-## 🐍 Contribution Snake & GitHub Analytics
+## 📊 GitHub Contribution Graph
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaifulET/SaifulET/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaifulET/SaifulET/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SaifulET/SaifulET/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br />
-<br />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifulET&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulET&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=SaifulET&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" />
-
-<br />
-<br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifulET&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF" />
 
