@@ -16,8 +16,11 @@
 
 </div>
 
-👋 About Me
+---
 
+## 👋 About Me
+
+```yaml
 name: Saiful Islam
 role: Full Stack Developer
 location: Dhaka, Bangladesh
@@ -41,25 +44,27 @@ currently_focused_on:
   - Dockerized development and CI/CD automation
 
 mindset: Build secure, scalable, maintainable software
+```
 
-I’m a Full Stack Developer focused on building production-grade web applications, scalable backend systems, and reliable business workflows.
+I’m a **Full Stack Developer** focused on building production-grade web applications, scalable backend systems, and reliable business workflows.  
+My recent work includes e-commerce, SaaS, ride-sharing, real estate, booking, and marketplace platforms using **Node.js, Express.js, Next.js, React, TypeScript, MongoDB, Redis, RabbitMQ, AWS S3, Socket.IO, JWT, Stripe, and Stripe Connect**.
 
-My recent work includes e-commerce, SaaS, ride-sharing, real estate, booking, and marketplace platforms using Node.js, Express.js, Next.js, React, TypeScript, MongoDB, Redis, RabbitMQ, AWS S3, Socket.IO, JWT, Stripe, and Stripe Connect.
+---
 
-🚀 Current Focus
+## 🚀 Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-⚡ Full Stack Engineering
+### ⚡ Full Stack Engineering
 
-Building scalable applications with Next.js, React, Node.js, Express.js, TypeScript, MongoDB, JWT, RBAC, and Stripe.
+Building scalable applications with **Next.js, React, Node.js, Express.js, TypeScript, MongoDB, JWT, RBAC, and Stripe**.
 
 </td>
 <td width="50%" valign="top">
 
-🔌 Backend API Development
+### 🔌 Backend API Development
 
 Designing secure REST APIs for authentication, payments, inventory, bookings, analytics, notifications, and admin workflows.
 
@@ -69,24 +74,26 @@ Designing secure REST APIs for authentication, payments, inventory, bookings, an
 <tr>
 <td width="50%" valign="top">
 
-🐳 Docker & CI/CD
+### 🐳 Docker & CI/CD
 
-Containerizing applications with Docker and automating testing, builds, and deployment through GitHub Actions.
+Containerizing applications with **Docker** and automating testing, builds, and deployment through **GitHub Actions**.
 
 </td>
 <td width="50%" valign="top">
 
-☁️ Cloud & Real-Time Systems
+### ☁️ Cloud & Real-Time Systems
 
-Working with AWS S3, AWS EC2, Socket.IO, Redis, RabbitMQ, Nginx, and Linux-based deployments.
+Working with **AWS S3, AWS EC2, Socket.IO, Redis, RabbitMQ, Nginx, and Linux-based deployments**.
 
 </td>
 </tr>
 </table>
 
-🛠 Tech Stack
+---
 
-Frontend
+## 🛠 Tech Stack
+
+### Frontend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="46" height="46" alt="HTML5" />
@@ -104,7 +111,7 @@ Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="46" height="46" alt="Tailwind CSS" />
 </p>
 
-Backend & Database
+### Backend & Database
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="46" height="46" alt="Node.js" />
@@ -120,7 +127,7 @@ Backend & Database
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="46" height="46" alt="Socket.IO" />
 </p>
 
-Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" />
@@ -134,7 +141,7 @@ Cloud & DevOps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="58" height="46" alt="AWS" />
 </p>
 
-Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" />
@@ -148,7 +155,7 @@ Tools & Platforms
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="46" height="46" alt="Figma" />
 </p>
 
-Services & Integrations
+### Services & Integrations
 
 <p>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
@@ -157,59 +164,49 @@ Services & Integrations
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
 
-🌟 Featured Projects
+---
+
+## 🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-💇 Salon Management SaaS Dashboard
+### 💇 Salon Management SaaS Dashboard
 
 A scalable management dashboard with 10+ business modules, 20+ responsive pages, and 40+ reusable components.
 
-Features:
+**Features:**
+- KPI cards, charts, tables, and filters
+- Leaflet-based location analytics
+- Responsive navigation and nested sidebars
+- Role-based workflows
+- Backend-integration-ready architecture
 
-KPI cards, charts, tables, and filters
+**Tech:** Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, Recharts, Leaflet
 
-Leaflet-based location analytics
-
-Responsive navigation and nested sidebars
-
-Role-based workflows
-
-Backend-integration-ready architecture
-
-Tech: Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, Recharts, Leaflet
-
-Repository • Live Demo
+[Repository](https://github.com/SaifulET/salon-management-dashboard) • [Live Demo](https://salon-dashboard-demo.com)
 
 </td>
 
 <td width="50%" valign="top">
 
-🛒 Smokenza E-commerce Platform
+### 🛒 Smokenza E-commerce Platform
 
 A full-stack commerce platform with customer, admin, and backend systems.
 
-Features:
+**Features:**
+- 100+ frontend and dashboard modules
+- 19+ REST APIs
+- 20+ controllers
+- 23+ services
+- 17 database models
+- Checkout, inventory, payments, and refunds
+- AWS S3 storage and Socket.IO notifications
 
-100+ frontend and dashboard modules
+**Tech:** Node.js, Express.js, MongoDB, Next.js, React, TypeScript, AWS S3, Socket.IO
 
-19+ REST APIs
-
-20+ controllers
-
-23+ services
-
-17 database models
-
-Checkout, inventory, payments, and refunds
-
-AWS S3 storage and Socket.IO notifications
-
-Tech: Node.js, Express.js, MongoDB, Next.js, React, TypeScript, AWS S3, Socket.IO
-
-Frontend • Backend • Live Demo
+[Frontend](https://github.com/SaifulET/smokenza-frontend) • [Backend](https://github.com/SaifulET/smokenza-backend) • [Live Demo](https://smokenza-demo.com)
 
 </td>
 </tr>
@@ -217,53 +214,41 @@ Frontend • Backend • Live Demo
 <tr>
 <td width="50%" valign="top">
 
-🚗 Uber Ride-Sharing Platform
+### 🚗 Uber Ride-Sharing Platform
 
 A scalable ride-sharing backend with 100+ RESTful APIs.
 
-Features:
+**Features:**
+- Authentication and driver onboarding
+- Ride booking and trip management
+- Stripe and Stripe Connect payments
+- Real-time ride requests and trip updates
+- Rider-driver communication
+- AWS S3 document management
 
-Authentication and driver onboarding
+**Tech:** Node.js, Express.js, MongoDB, Socket.IO, Stripe, AWS S3, Next.js, TypeScript
 
-Ride booking and trip management
-
-Stripe and Stripe Connect payments
-
-Real-time ride requests and trip updates
-
-Rider-driver communication
-
-AWS S3 document management
-
-Tech: Node.js, Express.js, MongoDB, Socket.IO, Stripe, AWS S3, Next.js, TypeScript
-
-Backend Repository
+[Backend Repository](https://github.com/SaifulET/uber-backend)
 
 </td>
 
 <td width="50%" valign="top">
 
-👗 Wardrop / Style-Sync
+### 👗 Wardrop / Style-Sync
 
 A fashion platform backend for outfit planning, community interaction, notifications, and administration.
 
-Features:
+**Features:**
+- 20+ backend APIs
+- Authentication and outfit management
+- Planner and community workflows
+- Scheduled reminders
+- Notifications and analytics
+- Improved API reliability by 30%+
 
-20+ backend APIs
+**Tech:** Node.js, Express.js, MongoDB, AWS S3, JWT
 
-Authentication and outfit management
-
-Planner and community workflows
-
-Scheduled reminders
-
-Notifications and analytics
-
-Improved API reliability by 30%+
-
-Tech: Node.js, Express.js, MongoDB, AWS S3, JWT
-
-Backend Repository
+[Backend Repository](https://github.com/SaifulET/wardrop-backend)
 
 </td>
 </tr>
@@ -271,60 +256,51 @@ Backend Repository
 <tr>
 <td width="50%" valign="top">
 
-🏢 Real Estate Management Platform
+### 🏢 Real Estate Management Platform
 
 A centralized system for managing property projects, floors, units, employees, and administrative workflows.
 
-Features:
+**Features:**
+- JWT authentication and password recovery
+- Role-based permissions
+- Multilingual support
+- Company profile management
+- AWS S3 uploads
+- Export-ready dashboards
 
-JWT authentication and password recovery
+**Tech:** Next.js, React, Express.js, MongoDB, JWT, AWS S3
 
-Role-based permissions
-
-Multilingual support
-
-Company profile management
-
-AWS S3 uploads
-
-Export-ready dashboards
-
-Tech: Next.js, React, Express.js, MongoDB, JWT, AWS S3
-
-Frontend • Backend
+[Frontend](https://github.com/SaifulET/real-estate-frontend) • [Backend](https://github.com/SaifulET/real-estate-backend)
 
 </td>
 
 <td width="50%" valign="top">
 
-📅 Bookly Service Marketplace
+### 📅 Bookly Service Marketplace
 
 A service marketplace and booking platform with location-based discovery and role-based dashboards.
 
-Features:
+**Features:**
+- Real-time availability
+- Booking workflows
+- Owner, staff, supervisor, and admin dashboards
+- Schedule and payout management
+- Interactive maps
+- Performance analytics
 
-Real-time availability
+**Tech:** Next.js, React, TypeScript, Tailwind CSS, Mapbox, Geoapify
 
-Booking workflows
-
-Owner, staff, supervisor, and admin dashboards
-
-Schedule and payout management
-
-Interactive maps
-
-Performance analytics
-
-Tech: Next.js, React, TypeScript, Tailwind CSS, Mapbox, Geoapify
-
-Frontend Repository • Live Demo
+[Frontend Repository](https://github.com/SaifulET/bookly-frontend) • [Live Demo](https://bookly-demo.com)
 
 </td>
 </tr>
 </table>
 
-♾️ CI/CD & Deployment
+---
 
+## ♾️ CI/CD & Deployment
+
+```mermaid
 flowchart LR
     A[Developer] --> B[GitHub Repository]
     B --> C[GitHub Actions]
@@ -336,20 +312,18 @@ flowchart LR
     H --> I[AWS EC2 or VPS]
     I --> J[Nginx]
     J --> K[Production App]
+```
 
-Dockerized application environments
+- Dockerized application environments
+- Docker Compose for local multi-service development
+- GitHub Actions for automated validation and deployment
+- Secure environment variables through GitHub Secrets
+- AWS EC2 or VPS deployment
+- Nginx reverse proxy configuration
 
-Docker Compose for local multi-service development
+---
 
-GitHub Actions for automated validation and deployment
-
-Secure environment variables through GitHub Secrets
-
-AWS EC2 or VPS deployment
-
-Nginx reverse proxy configuration
-
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -363,8 +337,11 @@ Nginx reverse proxy configuration
 
 The snake appears after the included GitHub Actions workflow runs successfully and creates the output branch.
 
-🎯 What I Bring
+---
 
+## 🎯 What I Bring
+
+```txt
 Full Stack Development     ██████████████████░░░   90%
 Backend API Development    ███████████████████░░   92%
 Node.js / Express.js       ██████████████████░░░   90%
@@ -373,8 +350,11 @@ React / Next.js            █████████████████�
 Docker & CI/CD             ███████████████░░░░░░   78%
 Cloud Integrations         ████████████████░░░░░   80%
 Problem Solving            █████████████████░░░░   85%
+```
 
-📬 Connect With Me
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -394,7 +374,7 @@ Problem Solving            █████████████████�
 <br />
 <br />
 
-⚡ Building secure, scalable, and production-ready applications.
+### ⚡ Building secure, scalable, and production-ready applications.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:64748b&height=120&section=footer" alt="Footer" />
 
