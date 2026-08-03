@@ -1,415 +1,295 @@
 <!--
   GitHub Profile README for Saiful Islam
-  Aligned with the supplied CV and expanded with Docker + CI/CD.
-  Replace repository/demo placeholders with your exact project links.
+  Clean version using reliable GitHub Markdown, Devicon assets, and Mermaid.
+  Replace project placeholders with your real repository and live-demo links.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=230&section=header&text=SAIFUL%20ISLAM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Node.js%20%26%20Next.js&descAlignY=58&descSize=18" />
+Hi, I'm Saiful Islam 👋
 
+Full-Stack Developer · Backend Engineer · Node.js & Next.js
 
+<p>
+  <a href="https://github.com/SaifulET">
+    <img src="https://komarev.com/ghpvc/?username=SaifulET&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/SaifulET?tab=followers">
+    <img src="https://img.shields.io/github/followers/SaifulET?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Backend-06b6d4?style=for-the-badge" alt="Focus" />
+</p>
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=SaifulET&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/SaifulET?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub Followers" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Backend-22d3ee?style=for-the-badge" alt="Focus" />
+<p>
+  Building scalable applications, secure APIs, real-time systems, and automated deployment workflows.
+</p>
 
 </div>
 
 👋 About Me
 
-name: Saiful Islam
-role: Full-Stack Developer
-location: Dhaka, Bangladesh
-education:
-  degree: B.Sc. in Computer Science & Engineering
-  cgpa: 3.67 / 4.00
-current_company: SparkTech Agency (Betopia)
-experience:
-  - 8+ production-grade full-stack applications
-  - 250+ RESTful APIs
-  - E-commerce, SaaS, ride-sharing, real estate, and marketplace systems
-  - Authentication, payments, analytics, notifications, and real-time features
-currently_focused_on:
-  - Scalable Node.js and Express.js backends
-  - Next.js and TypeScript applications
-  - Redis and RabbitMQ based workflows
-  - Dockerized development and CI/CD automation
-mindset: Build secure, scalable, maintainable software
+💼 Full-Stack Developer at SparkTech Agency (Betopia)
 
-I am a Full-Stack Developer with a strong foundation in computer science and hands-on experience building production-grade web applications.
+📍 Based in Dhaka, Bangladesh
 
-At SparkTech Agency (Betopia), I have developed applications across e-commerce, SaaS, ride-sharing, real estate, and marketplace domains. My work includes scalable backend architecture, secure authentication, payment systems, real-time communication, analytics, notifications, cloud storage, and business automation.
+🎓 B.Sc. in Computer Science & Engineering — CGPA 3.67 / 4.00
+
+🚀 Developed 8+ production-grade full-stack applications
+
+🔌 Built and maintained 250+ RESTful APIs
+
+⚡ Improved API response time by 35% through MongoDB and backend optimization
+
+🧩 Delivered 30+ major product features in Agile teams
+
+🐳 Currently focused on Docker, CI/CD, Redis, RabbitMQ, Node.js, and Next.js
+
+I build applications across e-commerce, SaaS, ride-sharing, real estate, booking, and marketplace domains. My work includes authentication, payments, analytics, notifications, real-time communication, cloud storage, and business automation.
 
 🚀 Professional Highlights
 
-<table>
-<tr>
-<td width="50%">
+Area
 
-🧩 Full-Stack Applications
+Achievement
 
-Developed 8+ full-stack applications using Node.js, Express.js, Next.js, React, TypeScript, and MongoDB.
+Full-Stack Development
 
-</td>
-<td width="50%">
+Developed 8+ production-grade applications using Node.js, Express.js, Next.js, React, TypeScript, and MongoDB
 
-🔌 Backend Engineering
+Backend Engineering
 
-Built and maintained 250+ RESTful APIs for authentication, payments, bookings, inventory, analytics, notifications, and admin workflows.
+Built and maintained 250+ RESTful APIs for authentication, payments, bookings, inventory, analytics, and admin workflows
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Performance
 
-⚡ Performance Optimization
+Reduced API response time by 35% through MongoDB query and backend optimization
 
-Optimized MongoDB queries and backend workflows, reducing API response time by 35% while improving scalability and reliability.
+Product Delivery
 
-</td>
-<td width="50%">
-
-🛠 Product Delivery
-
-Delivered 30+ major features in Agile teams and helped reduce production issues by 30% through validation, reusable architecture, and secure workflows.
-
-</td>
-</tr>
-</table>
+Delivered 30+ major features and contributed to a 30% reduction in production issues
 
 🛠 Tech Stack
 
 Frontend
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
 
 Backend & Database
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="44" height="44" alt="Express.js" title="Express.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" title="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="44" height="44" alt="RabbitMQ" title="RabbitMQ" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="44" height="44" alt="Socket.IO" title="Socket.IO" />
+</p>
 
-Cloud & DevOps
+Cloud, DevOps & CI/CD
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="44" height="44" alt="GitHub Actions" title="GitHub Actions" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="44" height="44" alt="Nginx" title="Nginx" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="44" alt="AWS" title="AWS" />
+</p>
 
-Tools
+Tools & Platforms
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44" height="44" alt="GitHub" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="44" height="44" alt="Postman" title="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code" title="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" title="Figma" />
+</p>
 
-Libraries & Services
+Services & Integrations
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongoose.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stripe.svg" width="45" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
+</p>
 
 ♾️ CI/CD & Deployment Workflow
 
-Developer Push
-      │
-      ▼
-GitHub Repository
-      │
-      ▼
-GitHub Actions Pipeline
-      │
-      ├── Install Dependencies
-      ├── Lint & Validate
-      ├── Run Tests
-      ├── Build Application
-      ├── Build Docker Image
-      └── Deploy to Server / Cloud
-              │
-              ▼
-      Dockerized Production App
+flowchart TD
+    A[Developer Push] --> B[GitHub Repository]
+    B --> C[GitHub Actions]
+    C --> D[Install Dependencies]
+    D --> E[Lint and Validate]
+    E --> F[Run Tests]
+    F --> G[Build Application]
+    G --> H[Build Docker Image]
+    H --> I[Deploy to Server or Cloud]
+    I --> J[Nginx Reverse Proxy]
+    J --> K[Dockerized Production App]
 
-I use CI/CD practices to make application delivery more consistent and reliable:
+Workflow Practices
 
 Containerize Node.js and full-stack applications with Docker
 
-Run local multi-service environments using Docker Compose
+Run multi-service environments using Docker Compose
 
-Automate install, validation, testing, and deployment with GitHub Actions
+Automate validation, testing, builds, and deployment with GitHub Actions
 
-Manage environment variables and deployment secrets securely
+Store deployment credentials using GitHub Secrets
 
-Deploy backend applications to cloud or VPS environments
+Deploy applications to cloud or VPS environments
 
-Use Nginx as a reverse proxy where required
+Use Nginx as a reverse proxy when required
 
-Keep deployment configuration version-controlled with the project
+Keep infrastructure and deployment configuration version-controlled
 
 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 💇 Salon Management SaaS Dashboard
 
-A scalable management dashboard for salon operations and business analytics.
-
-Highlights:
-
-10+ business modules
-
-20+ responsive pages
-
-40+ reusable React components
-
-KPI cards, charts, tables, and filters
-
-Leaflet-based location analytics
-
-Role-based workflows
-
-Backend-integration-ready architecture
+A scalable dashboard with 10+ business modules, 20+ responsive pages, 40+ reusable components, analytics charts, filters, and location-based insights.
 
 Tech: Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, Recharts, Leaflet
 
-Repository • Live Demo
-
-</td>
-<td width="50%">
+Repository · Live Demo
 
 🛒 Smokenza E-commerce Platform
 
-A full-stack e-commerce platform with customer, admin, and backend systems.
-
-Highlights:
-
-100+ frontend and dashboard modules
-
-19+ REST APIs
-
-20+ controllers
-
-23+ services
-
-17 database models
-
-Checkout, inventory, payments, and refunds
-
-AWS S3 media storage
-
-Socket.IO notifications
+A full-stack e-commerce platform with customer, admin, and backend systems. Includes 19+ APIs, 20+ controllers, 23+ services, 17 database models, checkout, inventory, payments, refunds, AWS S3 storage, and Socket.IO notifications.
 
 Tech: Node.js, Express.js, MongoDB, Next.js, React, TypeScript, AWS S3, Socket.IO
 
-Frontend • Backend • Live Demo
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+Frontend · Backend · Live Demo
 
 🚗 Uber Ride-Sharing Platform
 
-A scalable ride-sharing backend supporting real-time booking and payment workflows.
+A scalable ride-sharing backend with 100+ RESTful APIs for authentication, booking, trip management, driver onboarding, payments, support, and real-time communication.
 
-Highlights:
-
-100+ RESTful APIs
-
-Ride booking and trip management
-
-Driver onboarding
-
-Real-time ride requests and trip updates
-
-Rider-driver communication
-
-Stripe and Stripe Connect integration
-
-AWS S3 document management
-
-Tech: Node.js, Express.js, MongoDB, Socket.IO, Stripe, AWS S3, Next.js, TypeScript
+Tech: Node.js, Express.js, MongoDB, Socket.IO, Stripe, Stripe Connect, AWS S3, Next.js, TypeScript
 
 Backend Repository
 
-</td>
-<td width="50%">
-
 👗 Wardrop / Style-Sync
 
-A fashion platform backend for outfit planning, community engagement, and administration.
-
-Highlights:
-
-20+ backend APIs
-
-Authentication and outfit management
-
-Planner and community features
-
-Notifications and admin workflows
-
-Scheduled reminders
-
-Analytics dashboards
-
-Improved API reliability by 30%+
+A fashion platform backend with 20+ APIs for authentication, outfits, planning, community, notifications, scheduled reminders, analytics, and administration.
 
 Tech: Node.js, Express.js, MongoDB, AWS S3, JWT
 
 Backend Repository
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 🏢 Real Estate Management Platform
 
-A centralized platform for managing property projects, floors, units, employees, and administrative workflows.
-
-Highlights:
-
-JWT authentication and password recovery
-
-Role-based permissions
-
-Multilingual support
-
-Company profile management
-
-AWS S3 upload workflows
-
-Export-ready dashboards
-
-Scalable REST APIs
+A centralized property-management platform for projects, floors, units, employees, company profiles, role-based permissions, file uploads, multilingual support, and dashboards.
 
 Tech: Next.js, React, Express.js, MongoDB, JWT, AWS S3
 
-Frontend • Backend
-
-</td>
-<td width="50%">
+Frontend · Backend
 
 📅 Bookly Service Marketplace
 
-A service marketplace and booking platform with location-aware discovery.
-
-Highlights:
-
-Real-time availability
-
-Streamlined booking workflows
-
-Owner, staff, supervisor, and admin dashboards
-
-Service and schedule management
-
-Payout and analytics workflows
-
-Interactive maps
-
-Performance analytics
+A service marketplace and booking platform with location-based discovery, real-time availability, booking workflows, role-based dashboards, payouts, maps, and analytics.
 
 Tech: Next.js, React, TypeScript, Tailwind CSS, Mapbox, Geoapify
 
-Frontend Repository • Live Demo
+Frontend Repository · Live Demo
 
-</td>
-</tr>
-</table>
+📊 GitHub Activity
 
-📊 GitHub Analytics
+Instead of relying on third-party statistics images that may fail to load, use these direct GitHub links:
 
-<div align="center">
+View my repositories
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaifulET&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=2563EB&text_color=FFFFFF" />
+View my contribution activity
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulET&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=SaifulET&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=2563EB&currStreakLabel=22D3EE" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifulET&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=2563EB&point=FFFFFF" />
-
-</div>
+View my followers
 
 🎯 Core Strengths
 
-Backend API Development    ███████████████████░░   92%
-Node.js / Express.js       ███████████████████░░   90%
-MongoDB / Mongoose         ██████████████████░░░   88%
-React / Next.js            ██████████████████░░░   88%
-Real-Time Systems          ████████████████░░░░░   82%
-Docker & CI/CD             ███████████████░░░░░░   78%
-Cloud Integrations         ████████████████░░░░░   80%
-Problem Solving            █████████████████░░░░   85%
+Skill
 
-🐍 Contribution Snake
+Level
 
-<div align="center">
+Backend API Development
 
+92%
 
+Node.js / Express.js
 
-</div>
+90%
 
-To display the snake animation, add the GitHub Actions workflow that generates the output branch.
+MongoDB / Mongoose
+
+88%
+
+React / Next.js
+
+88%
+
+Real-Time Systems
+
+82%
+
+Docker & CI/CD
+
+78%
+
+Cloud Integrations
+
+80%
+
+Problem Solving
+
+85%
 
 📬 Connect With Me
 
 <div align="center">
 
 <a href="mailto:saifulislam3412883@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/saiful-islam-834467317/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://saiful-portfolio-three.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/SaifulET">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
 <div align="center">
 
-⚡ Building secure, scalable, and production-ready applications.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=130&section=footer" />
+Building secure, scalable, and production-ready applications.
 
 </div>
