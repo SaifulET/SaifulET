@@ -300,14 +300,14 @@ A service marketplace and booking platform with location-based discovery and rol
 
 ## 📊 GitHub Contribution Graph
 
-## 📊 GitHub Contribution Analytics
-
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SaifulET&theme=tokyonight&hide_border=true"
-    alt="Saiful's GitHub Contribution Analytics"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaifulET&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
   />
-</p>---
+</p>
+---
 
 ## 🎯 What I Bring
 
