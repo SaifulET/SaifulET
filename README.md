@@ -300,8 +300,7 @@ A service marketplace and booking platform with location-based discovery and rol
 
 ## 📊 GitHub Contribution Graph
 
-[![Saiful's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaifulET&theme=tokyo-night)](https://github.com/SaifulET)
-
+[![Saiful's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaifulET&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF&hide_border=true)](https://github.com/SaifulET)
 ---
 
 ## 🎯 What I Bring
