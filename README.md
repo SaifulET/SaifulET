@@ -164,18 +164,21 @@ Working with **AWS S3, AWS EC2, Socket.IO, Redis, RabbitMQ, Nginx, and Linux-bas
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="46" height="46" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+       width="46" height="46" alt="MongoDB" />
   &nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jsonwebtokens/jsonwebtokens-original.svg" width="46" height="46" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens"
+       width="46" height="46" alt="JWT" />
   &nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stripe/stripe-original.svg" width="46" height="46" alt="Stripe" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF"
+       width="46" height="46" alt="Stripe" />
   &nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="46" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+       width="55" height="46" alt="AWS" />
 </p>
----
 
 ## 🌟 Featured Projects
 
